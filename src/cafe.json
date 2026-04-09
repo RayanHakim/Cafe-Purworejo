@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "nama": "The Glad Hand Coffee",
+    "lokasi": "Kemuning",
+    "alamat": "Jl. Kemuning No.1 RT 001 / 008, Kepatihan, Purworejo",
+    "gmaps": "https://www.google.com/maps/place/glad+hand/data=!4m2!3m1!1s0x2e7aebfb27011b7b:0x1f18075e3a8a54e0?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/tghcoffee",
+    "image": "tgh.png",
+    "sumber_foto": "https://www.instagram.com/p/CkdHgl-hXKq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": 2,
+    "nama": "Tatamu Cafe",
+    "lokasi": "Kemuning",
+    "alamat": "Jl. Kemuning, Kepatihan, Purworejo, Kec. Purworejo",
+    "gmaps": "https://www.google.com/maps/place/tatamu+cafe/data=!4m2!3m1!1s0x2e7aebd418904b4d:0xd3764c7040b870ff?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/tatamu.cafe",
+    "image": "tatamu.png",
+    "sumber_foto": "https://www.instagram.com/p/C1_HR1dyhdo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": 3,
+    "nama": "Nona Dessert & Chill",
+    "lokasi": "Pangenjurutengah",
+    "alamat": "Jl. Jenderal Sudirman No.83, Sibung, Pangenjurutengah, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54114",
+    "gmaps": "https://www.google.com/maps/place/nona+dessert/data=!4m2!3m1!1s0x2e7aeb0c311f3587:0xf0cbaf8587da64bf?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/nona.dessertnchill?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "nona.png",
+    "sumber_foto": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer3BdFfsjhvIh7s4XkY7V1XtEB1M--6Z1SfnZ0OZ0dUuuAOg7X3d9iY_GoJ7PVxyFezrTLYsICRD_9vPjm0JZzSyeivH6y3MufMRF4YELNM4Fygwf9jN8OA6UlZKry4Z58LUFKX=s1360-w1360-h1020-rw"
+  },
+  {
+    "id": 4,
+    "nama": "Echosistem",
+    "lokasi": "Plaosan",
+    "alamat": "Jl. Arta Kencana No.6, RT.01/RW.16, Plaosan, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151",
+    "gmaps": "https://www.google.com/maps/place/ecosistem/data=!4m2!3m1!1s0x2e7aeb945e47cfb9:0xeea5a4bcf59edfa2?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/echosistem?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "echosistem.png",
+    "sumber_foto": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoX2A-lMturNAwTJhKTf-RD1WaLOq5urSj1pUg0re1eioPy-qtylkyy438H058uTInoG4NMJTHvADSCmY8J9fIsKFpnWYM6my01D5a5CgLf4HpM_FOTDbOPAjI6JOsYzBQDErC7=s1360-w1360-h1020-rw"
+  },
+  {
+    "id": 5,
+    "nama": "Kopi Candi",
+    "lokasi": "Candingasinan",
+    "alamat": "Jl. Dukuh Parakan No.rt. 01/4, Paraan, Candingasinan, Kec. Banyuurip, Kabupaten Purworejo, Jawa Tengah 54171",
+    "gmaps": "https://www.google.com/maps/place/kopi+candi/data=!4m2!3m1!1s0x2e7ae9ce22ee04cd:0x8001bfc92805762d?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/kopicandi_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "kopicandi.png",
+    "sumber_foto": "https://lh3.googleusercontent.com/p/AF1QipOYnPBF3WtEGxnRoE39kcMclLVHhZSlmoTjMtg6=s1360-w1360-h1020-rw"
+  },
+  {
+    "id": 6,
+    "nama": "Kedai Pekarangan",
+    "lokasi": "Cangkreplor",
+    "alamat": "Jalan Semawung &, Jl. Bagelen - Cangkrep, Dusun III, Cangkreplor, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54117",
+    "gmaps": "https://www.google.com/maps/place/kedai+pekarangan/data=!4m2!3m1!1s0x2e7aebe736a08843:0x9e0e50f1e9bd2bb?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/kedaipekarangan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "kedaipekarangan.png",
+    "sumber_foto": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqZ18kyI40x4beDla2d-tHgvia8aYQDifGn8W7J_Q48VQV1iP4wlHe-ZrXVzkRjlBGbCB1rN6KJwMgTZmP4h1dAQJDQPhuOUb9ambUp5JVpLtKSglzYaemGclJvlgFlPBi9PMffnWAstLDu=s1360-w1360-h1020-rw"
+  },
+  {
+    "id": 7,
+    "nama": "Rookie Coffee",
+    "lokasi": "Plaosan",
+    "alamat": "Jl. Mayjen Sutoyo No.55, Plaosan, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54113",
+    "gmaps": "https://www.google.com/maps/place/rookie+coffee/data=!4m2!3m1!1s0x2e7aeb0631ce87e3:0x2462d4d1d01f173a?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/rookiecoffeeshop?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "rookie.png",
+    "sumber_foto": "https://www.instagram.com/p/DSaq9foEy0B/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": 8,
+    "nama": "EXOTIC Coffee & Eatery",
+    "lokasi": "Pangenrejo",
+    "alamat": " Jl. Brigjen Katamso No.115, RT.01/RW.03, Rw. 03, Pangenrejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54115",
+    "gmaps": "https://www.google.com/maps/place/exotic+purworejo/data=!4m2!3m1!1s0x2e7aeb004dd7e629:0x73f277531ec4e983?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/exotic.pwr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "exotic.png",
+    "sumber_foto": "https://www.instagram.com/p/C5--zrcyFc6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": 9,
+    "nama": "Kebon N'dalem",
+    "lokasi": "Paduroso",
+    "alamat": "Jl. Eyang Surogati, Krajan, Paduroso, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 5411",
+    "gmaps": "https://www.google.com/maps/place/kebon+ndalem+purworejo/data=!4m2!3m1!1s0x2e7aebe6c27ba5a5:0xb79e7958bf6be219?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/kebonndalemcafe.purworejo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "kebon.png",
+    "sumber_foto": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweot_M5pNuD2whxJrWWTRRnHkeU0oEbBLYz0c-eeMF6BFBrGH0nANc5OUoAJkRqS1-s9G_ex58l7Mhei2hufk_TG23rh43o8OUUpGSxd4XUsvbA9dEUpwsO_6ce9TfwAA-8APQDt=s1360-w1360-h1020-rw"
+  },
+  {
+    "id": 10,
+    "nama": "Roar Coffee and Eatery",
+    "lokasi": "Cangkreplor,",
+    "alamat": "Jl. WR Supratman, Dusun III, Cangkreplor, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 5411",
+    "gmaps": "https://www.google.com/maps/place/roar+coffee+purworejo/data=!4m2!3m1!1s0x2e7aeb6eb1390e05:0xe6a40677e5349e6?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/roarcoffee.id/?utm_source=ig_web_button_share_sheet",
+    "image": "roar.png",
+    "sumber_foto": "https://jateng.idntimes.com/travel/destination/5-cafe-ternyaman-di-purworejo-cocok-untuk-nongkrong-dan-nugas-c1c2-01-fzpls-jd5rxm"
+  },
+  {
+     "id": 11,
+    "nama": "Kopi Kembang Sepasang",
+    "lokasi": "Brenggong,",
+    "alamat": "Jl Brenggong No.58, Brenggong Kidul, Brenggong, Purworejo, Purworejo Regency, Central Java 54119",
+    "gmaps": "https://www.google.com/maps/place/kopi+kembang+sepasang/data=!4m2!3m1!1s0x2e7aefde3c19c93b:0x589fdc4482b9b41b?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/kopikembangsepasang?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "kembang.png",
+    "sumber_foto": "https://www.instagram.com/p/DBGVzk0yqQC/?utm_source=ig_web_copy_link"
+  },
+  {
+     "id": 12,
+    "nama": "SULTHAN KOPI & EATERY",
+    "lokasi": "Plaosan",
+    "alamat": " Jl. Urip Sumoharjo, Plaosan, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151",
+    "gmaps": "https://www.google.com/maps/place/sultan+cafe+purworejo/data=!4m2!3m1!1s0x2e7aeb655e1ee175:0x8590e850eeca37b0?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/sulthan_kopieatery/?utm_source=ig_web_button_share_sheet",
+    "image": "sultan.png",
+    "sumber_foto": "https://www.instagram.com/reel/DOQeh0LCbki/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+     "id": 13,
+    "nama": "Semerbak Coffee",
+    "lokasi": "Sindurjan",
+    "alamat": "  Jl. Kartini, Rw. IV, Sindurjan, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54113",
+    "gmaps": "https://www.google.com/maps/place/semerbak+purworejo/data=!4m2!3m1!1s0x2e7aebb7c5049305:0x4535d982306c6a22?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/semerbakcafe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "image": "semerbak.png",
+    "sumber_foto": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwertx_n2vzxkWo-KGEXbx1nWMI3x3raHCtoG9ElDVqXCBjY8TUbYk_62ZdukOWq6aU-nflIqBCn4GCVfuXePnEcT-kqhig6N-XQ5bL43HLFeKKM7RRSdWqQtBw1zpR1llNm2knA=s1360-w1360-h1020-rw"
+  },
+{
+   "id": 14,
+    "nama": "Motojiwo",
+    "lokasi": "Sindurjan",
+    "alamat": "  Jl. Kartini No.4, Rw. V, Sindurjan, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54113",
+    "gmaps": "https://www.google.com/maps/place/motojiwo/data=!4m2!3m1!1s0x2e7aeba1bcb5bcb1:0x7b259a51d4e1c01f?sa=X&ved=1t:242&ictx=111",
+    "instagram": "https://www.instagram.com/motojiwo_coffee/?utm_source=ig_web_button_share_sheet",
+    "image": "motojiwo.png",
+    "sumber_foto": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoY56HwOpphhHmbOK6Qt4mEr6MH0nQYu2fWfZMKf9GEcgvM1SINpb9x5D3q8GQev66YcUX6DMsRdXMo8Qino0BZ3cjFgrtRwSU_eGXzCOkCVcxnshhFkBX0WkbstVo2K9TegLD3VLOly6n6=w289-h312-n-k-no"
+},
+{
+    "id": 15,
+      "nama": "Soul Coffee & Resto",
+      "lokasi": "Sindurjan",
+      "alamat": "Jl. Dewi Sartika, Rw. V, Sindurjan, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54113",
+      "gmaps": "https://www.google.com/maps/place/soul+cafe+purworejo/data=!4m2!3m1!1s0x2e7aebb7b6308f39:0xa0a45d93d88c8abc?sa=X&ved=1t:242&ictx=111",
+      "instagram": "https://www.instagram.com/soul_coffeepurworejo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "image": "soul.png",
+      "sumber_foto": "https://www.instagram.com/p/C4AwwsUyMCV/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
+},
+{
+   "id": 16,
+      "nama": "THRIVING COFFEE",
+      "lokasi": "Baledono",
+      "alamat": "Jl. WR Supratman No.3, Kedungputri, Baledono, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54118",
+      "gmaps": "https://www.google.com/maps/place/thriving+coffee/data=!4m2!3m1!1s0x2e7aeb327cc5af09:0x47b5d1dc83cb6b5d?sa=X&ved=1t:242&ictx=111",
+      "instagram": "https://www.instagram.com/thriving.coffee/?utm_source=ig_web_button_share_sheet",
+      "image": "thriving.png",
+      "sumber_foto": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer32B5Pt7REE5oGIsD-jjXiCEGlrzPxxJ4QTSDM7vB1LF1OKSIpIHyXBmu1NRMGczNv5OzjUmgQX1TmXu91rPgAsi9e1hFHeguZHB3a4TrUoa5X4JyNP4tALaBVXQVcPtNfNAI7yQ=s1360-w1360-h1020-rw"
+},
+{
+   "id": 16,
+      "nama": "Ramu Brew Bar",
+      "lokasi": "Sindurjan",
+      "alamat": "Jl. Dewi Sartika No.16, RT.05/RW.08, Rw. V, Sindurjan, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54111",
+      "gmaps": "https://www.google.com/maps/place/ramu+cafe+purworejo/data=!4m2!3m1!1s0x2e7aeb37fe9f480f:0x246a282e4984c368?sa=X&ved=1t:242&ictx=111",
+      "instagram": "https://www.instagram.com/ramu.brewbar?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "image": "ramu.png",
+      "sumber_foto": "https://lh3.googleusercontent.com/p/AF1QipMszHaY97UC15nMbbhZ38FHxspFNCTuakDIy38F=s1360-w1360-h1020-rw"
+}
+]
